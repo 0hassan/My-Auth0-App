@@ -1,0 +1,5 @@
+// gitignore file for the project
+const gitignore = `node_modules
+.DS_Store
+.env
+`;
